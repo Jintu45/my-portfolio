@@ -1,0 +1,14 @@
+.project-icon{
+    width: 40px;
+    height: 40px;
+    background: #283a61;
+    display: flex;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50%;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #eee;
+    margin-right: 15px;
+}

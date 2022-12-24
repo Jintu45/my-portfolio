@@ -1,0 +1,18 @@
+.project-title{
+    position: relative;
+}
+
+.project-title::after {
+    position: absolute;
+    content: "";
+    width: 200px;
+    height: 5px;
+    bottom: -20px;
+    background-color: #34d399;
+    left: 50%;
+    right: 50%;
+    margin-left: -98px;
+}
+.bg-project{
+    background-color: #001d44;
+}
